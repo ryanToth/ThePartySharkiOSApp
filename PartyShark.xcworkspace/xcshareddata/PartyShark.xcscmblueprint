@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8925BD68F2F445CB987835F6C4EADCDF6A471714",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8925BD68F2F445CB987835F6C4EADCDF6A471714" : 0,
+    "8D527DDBA35B1F731DD9123507D3EEBD9A7502FA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56D9C4EF-1CB6-49F4-9CEA-2AB6883288FF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8925BD68F2F445CB987835F6C4EADCDF6A471714" : "PartyShark\/",
+    "8D527DDBA35B1F731DD9123507D3EEBD9A7502FA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PartyShark",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PartyShark.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RiZhao\/PartySharkIOSApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8925BD68F2F445CB987835F6C4EADCDF6A471714"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RiZhao\/PartySharkIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D527DDBA35B1F731DD9123507D3EEBD9A7502FA"
+    }
+  ]
+}
